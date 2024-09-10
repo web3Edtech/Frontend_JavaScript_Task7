@@ -1,2 +1,2 @@
-# Frontend_JavaScript_Task3
- Implementing Search Functionality for Profile Page
+# Frontend_JavaScript_Task7
+Implementing User Authentication
